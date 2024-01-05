@@ -23,7 +23,10 @@ Since limitations and restrictions foster crativity, a few arbitrary creative ru
 
 ## "but I just wanna listen to it"
 
-If you wanna just hear a playlist of all the songs, you can find one on SoundCloud: [soundcloud.com/michigan-typescript/sets](https://soundcloud.com/michigan-typescript/sets)
+> [!TIP]
+>  If you wanna just hear a playlist of all the songs, you can find one on SoundCloud:
+>
+> **[soundcloud.com/michigan-typescript/sets](https://soundcloud.com/michigan-typescript/sets)**
 
 ## The Tracks
 
