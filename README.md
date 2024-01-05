@@ -9,14 +9,14 @@ This repo contains the source files for all the original music used by [Michigan
 
 ## Arbitrary Limitations === Creative Freedom
 
-Since limitations and restrictions foster crativity, a few arbitrary creative rules were put in place for all of this music:
+Since limitations and restrictions foster creativity, a few arbitrary creative rules were put in place for all of this music:
 
 1. all tracks are
     - made in [BitWig](https://www.bitwig.com)
     - use no extra samples
     - use no external plugins*
 1. only 6 notes are allowed: `C` `E` `G` (C Major) and `F#` `A#` `C#` (F# Major).
-    - And yes..  The hidden references to the C, C# and F# programming languages are intentional.  Coidencially, since these two chords are a tritone apart, even though it's just 6 notes, there's lots of chromatic possibilities there that allow for interesting progressions which hint at (but don't ever arrive at) other chords (since using other notes would be breaking the rules).
+    - And yes..  The hidden references to the C, C# and F# programming languages are intentional.  Coincidentally, since these two chords are a tritone apart, even though it's just 6 notes, there's lots of chromatic possibilities there that allow for interesting progressions which hint at (but don't ever arrive at) other chords (since using other notes would be breaking the rules).
     - There's no scale that fits these six notes (seriously, you are invited to try and find one).
 
 <sub>_* only the very first two tracks used [Omnisphere](https://www.spectrasonics.net/products/omnisphere) before this rule was decided on_<sub>
