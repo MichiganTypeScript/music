@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./MiTS.png">
+</p>
+
 # Michigan TypeScript's Original Music
 
 This repo contains the source files for all the original music used by [Michigan TypeScript](https://www.youtube.com/@MichiganTypeScript/videos).
